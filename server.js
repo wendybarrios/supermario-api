@@ -10,7 +10,7 @@ const characters = {
         'birthday': 'May 27, 1965',
         'species': 'Human',
         'height': '155 cm',
-        'funFact':  'Mario has appeared in over 200 video games. '
+        'funFact':  "Mario doesn't have a last name. This basically means that Mario is on a Madonna or Cher level-tier of cool and doesn't need extra words to tie him down."
 
     },
     'luigi': {
@@ -42,21 +42,21 @@ const characters = {
         'birthday': 'July 15, 1953',
         'species': 'T. Yoshisaur Munchakoopas',
         'height': '140 cm',
-        'funFact':  'Aside from appearing in countless Nintendo titles, Bowser can also be seen in Wreck-It Ralph.'
+        'funFact':  "He is a hard-working single dad. Bowser's goal to kidnap Peach has at time been explained as him trying to find a mother for his kids. As an idea, it is terribly misguided, so the poor guy has to be getting desperate."
 
     },
     'toad': {
         'birthday': 'July 30, 1970',
         'species': 'Toad; Formerly Mushroom Retainers',
         'height': '42 cm',
-        'funFact':  'He is bald underneath that hat'
+        'funFact':  'He is bald underneath his large mushroom hat.'
 
     },
     'waluigi': {
         'birthday': 'July 21, 2000',
         'species': 'Human',
         'height': '234 cm',
-        'funFact':  "He has Salavdor Dali's Mustache"
+        'funFact':  "He has Salavdor Dali's Mustache."
 
     },
     'wario': {
@@ -189,6 +189,13 @@ const characters = {
         'species': 'Kong',
         'height': 'N/A',
         'funFact': 'Donkey Kong Jr., Cranky Kong, and Wrinkly Kong are the only known Kongs who know how to do math correctly.'
+
+    },
+    'boo': {
+        'birthday': 'N/A',
+        'species': 'ghost',
+        'height': 'N/A',
+        'funFact': "Boo's Japanese Name is Theresa (yes, really). It comes from the Japanese words meaning 'to be shy'."
 
     },
     'unknown': {
