@@ -23,7 +23,7 @@ const characters = {
         'birthday': 'January 8, 1965',
         'species': 'Human',
         'height': '160 cm',
-        'funfact':  'Princess Peach has been featured in Forbes Magazine.'
+        'funFact':  'Princess Peach has been featured in Forbes Magazine.'
     },
     'princess daisy': {
         'birthday': 'April 21, 1985',
@@ -197,7 +197,6 @@ const characters = {
         'species': 'unknown',
         'height': 'unknown',
         'funFact': 'unknown'
-
     }
 
 }
