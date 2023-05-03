@@ -14,7 +14,7 @@
 
 ## Optimizations
 
-While I improve this project, I hope to 
+While I improve this project, I hope to added additional characters and even store pictures of the characters themselves.
 
 ## Lessons Learned:
 
